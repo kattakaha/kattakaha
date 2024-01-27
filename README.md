@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, TypeScript, Go, AWS...**
 
-- 📫 How to reach me: Email:**kattakaha@gmail.com**
+- 📫 How to reach me: Email: **kattakaha@gmail.com**
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/kkml4220)
 
