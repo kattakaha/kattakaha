@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Takahashi Katsuyuki</h1>
 <h3 align="center">Graduate Student Freelance Engineer</h3>
 
-- 🌱 I’m currently learning **Serverless framework**
+- 🌱 I'm currently learning **Serverless framework**
 
 - 👨‍💻 All of my projects are available at [https://kkml4220.github.io/portfolio/](https://kkml4220.github.io/portfolio/)
 
