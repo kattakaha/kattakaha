@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: Email: **kattakaha@gmail.com**
 
-[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/kkml4220)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow)](https://github.com/kkml4220) <img src="https://komarev.com/ghpvc/?username=kkml4220" />
 
 ![profile1](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkml4220&theme=nord_dark)
 
