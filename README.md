@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Katsuyuki Takahashi</h1>
-<h3 align="center">Lovely Freelance Engineer</h3>
+<h3 align="center">Lovely Engineer</h3>
 
 - 🌱 I'm currently learning **Authorization, Authentication**.
 - 💬 Ask me about **Python, TypeScript, Node, Go, AWS...**
